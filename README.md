@@ -561,9 +561,7 @@ function showSlides() {
      	
      </div>
    <ul>
-
-
-        <li><a href="C:\Users\ELCOT\Desktop\PROJECT FOLDER\star vents\home Ara.html">HOME</a></li> 
+	   <li><a href="C:\Users\ELCOT\Desktop\PROJECT FOLDER\star vents\home Ara.html">HOME</a></li> 
         <li><a href="C:\Users\ELCOT\Desktop\PROJECT FOLDER\star vents\services Ara.html">SERVICE</a></li> 
         <li><a href="C:\Users\ELCOT\Desktop\PROJECT FOLDER\star vents\about Ara.html">ABOUT us</a></li> 
         <li><a href="C:\Users\ELCOT\Desktop\PROJECT FOLDER\star vents\contact Ara.html">CONTACT</a></li> 
@@ -594,7 +592,43 @@ function showSlides() {
   <marquee> wedding--> Birthday function--> Get To Gether--> Reception-->ALL AUSPICIOUS EVENTS WILL BE DONE AT OUR STAR EvENTS</marquee>
 </div>
 
+<!DOCTYPE HTML>
+<head>
+    <title>Home</title>
+</head>
+<body> 
+<style>
+                    body {
+                        background-image: url("home.jpg");
+                        background-position: fixed;
+                        background-repeat: no-repeat;
+                        background-size: cover;
+                    }
+                    p
+                    {
+                 font-family: cursive;
+color: #fff;
+font-size: 45px;
+text-align: center;
+                    }
+            
+                     h3
+                     {
+                        text-align: center;
+                        font-size: 80px;
+                        color: whitesmoke;
+                     }   
+                </style>
+                <h3>Home</h3>
+                <p>Complete your Auspicious event with us</p>
+                <p>Auspicious event are amazing and you to mae that great ! with us </p>
+                <p>We offer a wide range of catering services, from drop-off to full-service catering</p>
+                <p>Of food catering provides full-service wdding catering for your special day.
+                We created offer wedding easier than ever. We guide you through curating the perfect menu for you and your guests. Should you need help with coctails, desserts, or other aspects of planning your wedding reception, we are a quick phone call away! We are always happy to bb a service  </p>
 
+            </body>
+            </html>
+            </html>
 
 <h2 id="location"></h2>
 <div class="my5">
